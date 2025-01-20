@@ -31,7 +31,8 @@ python timeqli.py --url <URL> --method <HTTP_METHOD> --payload <PAYLOAD_FILE> --
 ```
 
 ### Extract Database Name
-```python timeqli.py --url "http://example.com/login" --method POST --payload payload.txt --delay 5 --mode database
+```
+python timeqli.py --url "http://example.com/login" --method POST --payload payload.txt --delay 5 --mode database
 ```
 
 ### Extract Table Names
